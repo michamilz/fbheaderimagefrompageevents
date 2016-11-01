@@ -1,0 +1,7 @@
+{
+    "require": {
+        "facebook/graph-sdk": "^5.4",
+        "guzzlehttp/guzzle": "^6.2",
+        "gregwar/image": "^2.0"
+    }
+}
